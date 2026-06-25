@@ -120,9 +120,7 @@ Passionate about teaching and sharing knowledge.
 ## Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kankana2005&theme=tokyo-night"/>
-
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Kankana2005&theme=tokyo-night"/>
 </p>
 
 ---
